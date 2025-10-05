@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
+| [0417-pacific-atlantic-water-flow](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0417-pacific-atlantic-water-flow) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0417-pacific-atlantic-water-flow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
