@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0417-pacific-atlantic-water-flow) |
 | [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-water-bottles-ii](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
