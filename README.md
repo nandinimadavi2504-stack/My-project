@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0417-pacific-atlantic-water-flow) |
+| [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0011-container-with-most-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0417-pacific-atlantic-water-flow) |
+## Binary Search
+|  |
+| ------- |
+| [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
 <!---LeetCode Topics End-->
