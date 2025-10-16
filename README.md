@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0002-add-two-numbers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0417-pacific-atlantic-water-flow) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -47,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0011-container-with-most-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
