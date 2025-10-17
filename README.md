@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0136-single-number) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -103,9 +104,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
