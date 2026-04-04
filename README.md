@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2751-robot-collisions](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2751-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3336-water-bottles-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bitmask
