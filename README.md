@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0011-container-with-most-water) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
@@ -123,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0005-longest-palindromic-substring) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0005-longest-palindromic-substring) |
 | [0657-robot-return-to-origin](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0657-robot-return-to-origin) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
