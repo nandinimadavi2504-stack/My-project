@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0004-median-of-two-sorted-arrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
