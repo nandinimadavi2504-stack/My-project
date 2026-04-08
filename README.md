@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2751-robot-collisions](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2751-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3336-water-bottles-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
