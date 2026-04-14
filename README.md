@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2463-minimum-total-distance-traveled](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2463-minimum-total-distance-traveled) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2751-robot-collisions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2463-minimum-total-distance-traveled](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2751-robot-collisions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0005-longest-palindromic-substring) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2463-minimum-total-distance-traveled) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
