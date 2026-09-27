@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0169-majority-element) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0417-pacific-atlantic-water-flow) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/nandinimadavi2504-stack/My-project/tree/master/1612-avoid-flood-in-the-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nandinimadavi2504-stack/My-project/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/nandinimadavi2504-stack/My-project/tree/master/2069-walking-robot-simulation-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nandinimadavi2504-stack/My-project/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
